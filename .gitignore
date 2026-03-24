@@ -1,0 +1,8 @@
+# Automatically generated .gitignore for ADK Agent
+.env
+.venv/
+.adk/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
